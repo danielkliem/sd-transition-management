@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this model or the dissertation, please cite the work below."
+title: "System Dynamics in Transition Management: Participative modeling for transitioning towards a circular construction material industry"
+authors:
+  - family-names: Kliem
+    given-names: Daniel
+type: thesis
+thesis-type: "PhD thesis"
+institution:
+  name: "University of Bergen"
+year: 2021
+url: "https://nva.sikt.no/registration/0198f23a9204-fccbeaa3-1eb6-44ef-bb29-ff1a72925b28"
+repository-code: "https://github.com/danielkliem/sd-transition-management"
+keywords:
+  - system dynamics
+  - circular economy
+  - transition management
+  - construction materials
+  - participative modelling
