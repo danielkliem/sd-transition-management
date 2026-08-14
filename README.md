@@ -265,7 +265,7 @@ agricultural land or noise barriers along highways.
 - `thesis.pdf` (full dissertation)
 - `CUBIC.stmx` (the System Dynamics model, Stella XML format)
 - `Equations.txt` (model equations, text export)
-- `CUBIC_technical desciption.pdf` (technical description of model
+- `CUBIC_technical_description.pdf` (technical description of model
   structure and parameters)
 
 ## Citation
@@ -274,6 +274,17 @@ Kliem, D. (2021). *System Dynamics in Transition Management:
 Participative modeling for transitioning towards a circular construction
 material industry.* PhD Thesis, University of Bergen.
 Permanent record: https://nva.sikt.no/registration/0198f23a9204-fccbeaa3-1eb6-44ef-bb29-ff1a72925b28
+
+## Licence
+
+The CUBIC model files (`CUBIC.stmx`, `Equations.txt`,
+`CUBIC_technical_description.pdf`) are released under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite as
+indicated above.
+
+`thesis.pdf` is the author's doctoral dissertation and is provided here for
+reading and citation only; all rights remain with the author and the
+University of Bergen.
 
 ## References
 
